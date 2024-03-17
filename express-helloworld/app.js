@@ -9,7 +9,7 @@ app.get('/mars', function(req, res) {
   res.send('Hello Mars!\n');
   });
 
-  app.get('/juris', function(req, res) {
+  app.get('/jurismuris', function(req, res) {
     res.send('Hello Mars!\n');
     });
 
